@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(40deg, #4E5180 15%, #202A44 52%); 
+  background: linear-gradient(40deg, #9396ba 15%, #202A44 52%); 
 }
    
 .header img {
@@ -197,6 +197,7 @@ padding: 15px;
 .custom-cursor {
  cursor: url('tigercur.png'), pointer;
 }
+
 
 
 

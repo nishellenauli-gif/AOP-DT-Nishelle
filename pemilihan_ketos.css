@@ -2,6 +2,7 @@ body {
  justify-content: center;
  align-items: center;
  background: linear-gradient(0deg, #ffffff 0%, #0f8cf6);
+ cursor: url('tigercur.png'), auto;
 }
 
 header {
@@ -126,11 +127,8 @@ header img {
   background-color: white;
 
 }
-
-.custom-cursor {
- cursor: url('tigercur.png'), pointer;
-}
  
+
 
 
 

@@ -127,3 +127,9 @@ header img {
 
 }
 
+.custom-cursor {
+ cursor: url(tiger.cur), pointer;
+}
+ 
+
+

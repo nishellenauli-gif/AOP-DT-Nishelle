@@ -20,6 +20,7 @@ body {
  align-items: center;
  height: 100vh;
  background: linear-gradient(0deg, #ffffff 0%, #0f8cf6);
+	cursor: url('tigercur.png'), auto;
 }
 
 .LOGIN_NISNyey img {
@@ -62,10 +63,6 @@ display: block;
  justify-content: center;
  margin-bottom: 0px;
  transition: 0.5s;
-}
-
-.custom-cursor {
- cursor: url('tigercur.png'), pointer;
 }
 
 

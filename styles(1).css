@@ -63,3 +63,8 @@ display: block;
  margin-bottom: 0px;
  transition: 0.5s;
 }
+
+.custom-cursor {
+ cursor: url(tiger.cur), pointer;
+}
+

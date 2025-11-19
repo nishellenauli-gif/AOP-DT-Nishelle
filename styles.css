@@ -194,4 +194,8 @@ padding: 15px;
   text-align: center;
 }
 
+.custom-cursor {
+ cursor: url(tigercur.png), pointer;
+}
+
 

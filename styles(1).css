@@ -65,7 +65,8 @@ display: block;
 }
 
 .custom-cursor {
- cursor: url(tigercur.png), pointer;
+ cursor: url('tigercur.png'), pointer;
 }
+
 
 
